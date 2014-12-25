@@ -10,7 +10,7 @@ The package includes an example.
 
 1. Download the following dataset and put it into the directory `data`.
 	- Dataset: `mnist_rotation_back_image_new`, Rotated MNIST digits + background images
-	- The `pickle data format` is required in this example, which can be download from <http://kdd2014.noahlab.com.hk/sugar/mnist_rotation_back_image_new.pkl.gz>.
+	- The `pickle data format` is required in this example, which can be download from <https://github.com/lucktroy/sugar/tree/master/data/mnist_rotation_back_image_new.pkl.gz>.
 	- The original dataset can be found at <http://www.iro.umontreal.ca/~lisa/icml2007data/mnist_rotation_back_image_new.zip>.
     
 2. Change the directory to `example`, and launch `RunMe.sh`.
